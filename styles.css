@@ -1,0 +1,16 @@
+body {
+  background: orange;
+}
+section {
+  background: gray;
+  padding: 1rem;
+}
+article {
+  border: 2px dashed #c5c5c5;
+  margin-bottom: 0.5rem;
+  padding: 1rem;
+}
+.bought {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
